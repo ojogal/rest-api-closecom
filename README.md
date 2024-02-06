@@ -17,8 +17,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository**
 
 ```bash
-git clone https://yourrepository.com/closecom-rest-api.git
-cd closecom-rest-api
+git clone https://yourrepository.com/rest-api-closecom.git
+cd rest-api-closecom
 ```
 
 2. **Install dependencies**
